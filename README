@@ -1,0 +1,4 @@
+UDPDocsisApp.cc,.h - The source code for the OMNET++ module
+UDPDocsisApp.ned - The Network Descriptor File which encapsulates the module. This ned file becomes the block that is dragged and dropped into other larger networks.
+simplerouter2.ned - A sample network containing a CMTS and some number of CMs, to be used for testing
+mediumloadTCP.ini - A sample initialization script for simplerouter2. Sets up 50hosts/CMs downstream and sets the upstream utilization to 50%
